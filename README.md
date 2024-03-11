@@ -1,7 +1,7 @@
 # CloudExplorers
 INNODEV Electromania @ Culrav-Avishkar MNNIT 2k24
 
-Project: [Abstract](https://drive.google.com/file/d/1X5NAQ430UaeP-F4Lp9Lr35Qj5WlJYOz5/view?usp=sharing)
+Project: [Abstract](https://github.com/Aryan10/CloudExplorers/blob/main/shared/abstract.pdf)
 
 ## Team Members:
 Shivam Aryan - 20233265
