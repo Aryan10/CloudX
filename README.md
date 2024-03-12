@@ -8,6 +8,6 @@ Project: [Abstract](https://github.com/Aryan10/CloudExplorers/blob/main/shared/a
 
 Rajveer Yadav `20233229`
 
-Priyanshu Pal `20233223`
+[Priyanshu Pal](https://github.com/Hustler002) `20233223`
 
 [Lakshay Rathee](https://github.com/RathiLakshay) `20234093`
