@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+app.use("/shared", express.static("shared"));
 app.use(express.static("public"));
 app.get("/", function(request, response) {
   response.sendFile(__dirname + "/views/index.html");
