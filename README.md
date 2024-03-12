@@ -10,7 +10,7 @@ Project:
 ## Team Members:
 [Shivam Aryan](https://github.com/Aryan10) `20233265`
 
-Rajveer Yadav `20233229`
+[Rajveer Yadav](https://github.com/Raj-viir) `20233229`
 
 [Priyanshu Pal](https://github.com/Hustler002) `20233223`
 
