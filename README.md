@@ -1,15 +1,16 @@
-# CloudX
-by _Cloud Explorers_
+# Avishkar 2k24
+### Electromania/Innodev
+Event @ MNNIT
 
-INNODEV Electromania
+Project Title: Cloud X
 
-@ Culrav-Avishkar MNNIT 2k24
+Team Name: Cloud Explorers
 
-Project: 
+### Project Overview
 
-[Cloud Explorer](https://cloudexplorer.glitch.me/)
+Supposed to be a file sharing website but due to reasons only the user login works.
 
-[Abstract](https://github.com/Aryan10/CloudExplorers/blob/main/shared/abstract.pdf)
+[Hosted on Glitch](https://cloudexplorer.glitch.me/)
 
 ## Team Members:
 [Shivam Aryan](https://github.com/Aryan10) `20233265`
