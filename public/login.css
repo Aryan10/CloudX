@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(https://cdn.glitch.global/399552f1-5927-474a-9797-d1b426efb4ab/a51da1bd-19d4-467c-a9ee-a2ab7ba8c57f.bg2.webp?v=1710334234440);
+    background-position: center;
+    background-size: max(1200px,100vw);
+    position: relative;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+
+}
+
+header{
+    height: 50%;
+    width: 100%;
+}
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:rgba(0, 0, 0, 0.705);
+    height: 50px;
+    width: 100%;
+    a{
+        color:white;
+        text-decoration: none;
+        /* display: flex; */
+        /* align-items: center; */
+        /* justify-content: space-between; */
+    }
+}
+
+#logo{
+    /* height: 200px;
+    width: 200px; */
+    color: white;
+    padding: 3%;
+    font-size: x-large;
+    text-shadow: 0px 3px 4px white;
+    
+}
+
+#links{
+    padding-right: 3%;
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    text-shadow: 0px 1px 4px white;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid grey;
+    border-radius: 12px;
+    background-color: rgba(34, 32, 32, 0.699);
+    filter: blur(0px);
+    box-shadow: 0px 0px 18px rgba(255, 255, 255, 0.616);
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    z-index: 1;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color:whitesmoke;
+    
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    border-bottom: 1px solid grey;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+}
+
+#forgot{
+    display: flex;
+    justify-content: right;
+    a{
+        text-decoration: none;
+        font-weight: lighter;
+        color: white;
+        /* padding-left:10% ; */
+    }
+}
+
+button {
+    margin: 8% 0% 8% 9%;
+    display: block;
+    width: 80%;
+    padding: 9px;
+    background-color: #C0BFBF;
+    font-weight: bolder;
+    font-size: large;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    background-color: white;
+    color: black;  
+}
+
+#signup{
+    margin: 8% 0% 0% 19% ;
+    
+    a{
+        text-decoration: none;
+        color: white;
+    } 
+}
+::placeholder{
+  color:#E8E8E8;
+  font-size:larger;
+  
+  
+}

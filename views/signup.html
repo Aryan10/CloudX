@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CloudX</title>
+    <link rel="stylesheet" href="/signup.css" />
+    <script src="/_scripts.js"></script>
+    <script src="/_login.js"></script>
+  </head>
+  <body>
+    <header>
+      <div id="navbar">
+        <div id="logo">CLOUDX</div>
+        <div id="links">
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+          <a href="/about">Contact us</a>
+        </div>
+      </div>
+      <div class="container">
+        <h1>Signup to CloudX</h1>
+        <form id="loginForm" onsubmit="return false">
+          <div class="form-group">
+            <label for="email">Email address</label>
+            <input type="text" id="email" required />
+          </div>
+          <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" id="username" autocomplete="username" required />
+          </div>
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" id="password" autocomplete="password" required />
+          </div>
+          <div class="form-group">
+            <label for="password">Confirm Password</label>
+            <input type="password" id="repassword" required />
+          </div>
+          <button type="submit" onclick="onSignup()">Register</button>
+        </form>
+        <div id="signup">
+            <a href="/login">Already have an account? Login!</a>
+        </div>
+      </div>
+    </header>
+  </body>
+</html>
