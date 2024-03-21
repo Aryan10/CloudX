@@ -1,7 +1,15 @@
-# CloudExplorers
-INNODEV Electromania @ Culrav-Avishkar MNNIT 2k24
+# CloudX
+by _Cloud Explorers_
 
-Project: [View Abstract](https://github.com/Aryan10/CloudExplorers/blob/main/shared/abstract.pdf)
+INNODEV Electromania
+
+@ Culrav-Avishkar MNNIT 2k24
+
+Project: 
+
+[Cloud Explorer](https://cloudexplorer.glitch.me/)
+
+[Abstract](https://github.com/Aryan10/CloudExplorers/blob/main/shared/abstract.pdf)
 
 ## Team Members:
 [Shivam Aryan](https://github.com/Aryan10) `20233265`
