@@ -8,7 +8,7 @@ Team Name: Cloud Explorers
 
 ### Project Overview
 
-Supposed to be a file sharing website but due to _reasons_ only the user login was finished in time.
+File sharing website, unfinished, only user login works as of now.
 
 [Hosted on Glitch](https://cloudexplorer.glitch.me/)
 
